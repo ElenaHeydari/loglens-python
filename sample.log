@@ -1,0 +1,8 @@
+2026-10-29 09:00:00 INFO Application started
+2026-10-29 09:01:14 WARNING Cache response slow
+2026-10-29 09:02:01 ERROR Database connection failed
+2026-10-29 09:02:05 ERROR Database connection failed
+2026-10-29 09:03:20 INFO Request completed
+this is a malformed line
+2026-10-29 09:04:33 DEBUG Retry attempt 1
+2026-10-29 09:05:12 ERROR Payment provider timeout
